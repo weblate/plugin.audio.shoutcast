@@ -41,11 +41,11 @@ msgid "Search Current Track playing Station"
 msgstr "按当前播放曲目搜索电台"
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
+msgid "Add to 'My Stations'"
 msgstr "加入“我的电台”"
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
+msgid "Remove from 'My Stations'"
 msgstr "从“我的电台”删除"
 
 msgctxt "#30100"

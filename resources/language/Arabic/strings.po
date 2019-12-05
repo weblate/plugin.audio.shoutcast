@@ -37,11 +37,11 @@ msgid "Search Station by name"
 msgstr "البحث عن المحطة من خلال الأسم "
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
-msgstr "الاضافة الى "محطاتي المفضلة" "
+msgid "Add to 'My Stations'"
+msgstr "الاضافة الى 'محطاتي المفضلة' "
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
+msgid "Remove from 'My Stations'"
 msgstr "الازالة من قائمة محطاتي المفضلة   "
 
 msgctxt "#30100"

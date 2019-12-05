@@ -41,12 +41,12 @@ msgid "Search Current Track playing Station"
 msgstr "Αναζήτηση Σταθμού Τρέχοντος Τραγουδιού"
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
-msgstr "Προσθήκη στους "Σταθμούς μου""
+msgid "Add to 'My Stations'"
+msgstr "Προσθήκη στους 'Σταθμούς μου'"
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
-msgstr "Αφαίρεση από τους "Σταθμούς μου""
+msgid "Remove from 'My Stations'"
+msgstr "Αφαίρεση από τους 'Σταθμούς μου'"
 
 msgctxt "#30100"
 msgid "Show Subgenres"

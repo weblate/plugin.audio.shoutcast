@@ -41,12 +41,12 @@ msgid "Search Current Track playing Station"
 msgstr "Sök station som spelar låt"
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
-msgstr "Lägg till i "Mina stationer""
+msgid "Add to 'My Stations'"
+msgstr "Lägg till i 'Mina stationer'"
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
-msgstr "Radera från "Mina stationer""
+msgid "Remove from 'My Stations'"
+msgstr "Radera från 'Mina stationer'"
 
 msgctxt "#30100"
 msgid "Show Subgenres"

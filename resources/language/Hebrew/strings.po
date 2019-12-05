@@ -41,11 +41,11 @@ msgid "Search Current Track playing Station"
 msgstr "חיפוש תחנה המנגנת רצועה נוכחית"
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
+msgid "Add to 'My Stations'"
 msgstr "הוספה לתחנות שלי"
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
+msgid "Remove from 'My Stations'"
 msgstr "הסרה מהתחנות שלי"
 
 msgctxt "#30100"

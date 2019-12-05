@@ -41,12 +41,12 @@ msgid "Search Current Track playing Station"
 msgstr "Buscar emisoras que reproducen una canción"
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
-msgstr "Añadir a "Mis emisoras""
+msgid "Add to 'My Stations'"
+msgstr "Añadir a 'Mis emisoras'"
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
-msgstr "Quitar de "Mis emisoras""
+msgid "Remove from 'My Stations'"
+msgstr "Quitar de 'Mis emisoras'"
 
 msgctxt "#30100"
 msgid "Show Subgenres"

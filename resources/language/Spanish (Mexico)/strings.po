@@ -41,12 +41,12 @@ msgid "Search Current Track playing Station"
 msgstr "Busqueda de la Pista Actual Reproducia en la Estacion"
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
-msgstr "Agregar a "Mis Estaciones""
+msgid "Add to 'My Stations'"
+msgstr "Agregar a 'Mis Estaciones'"
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
-msgstr "Remover de "Mis Estaciones""
+msgid "Remove from 'My Stations'"
+msgstr "Remover de 'Mis Estaciones'"
 
 msgctxt "#30100"
 msgid "Show Subgenres"

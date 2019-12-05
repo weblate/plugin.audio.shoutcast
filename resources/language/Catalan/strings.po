@@ -41,12 +41,12 @@ msgid "Search Current Track playing Station"
 msgstr "Cerca de pista actual de la emissora en reproducció"
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
-msgstr "afageix a "Les meves Emissores""
+msgid "Add to 'My Stations'"
+msgstr "afageix a 'Les meves Emissores'"
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
-msgstr "Elimina de "Les meves Emissores""
+msgid "Remove from 'My Stations'"
+msgstr "Elimina de 'Les meves Emissores'"
 
 msgctxt "#30100"
 msgid "Show Subgenres"

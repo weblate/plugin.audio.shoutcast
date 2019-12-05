@@ -41,11 +41,11 @@ msgid "Search Current Track playing Station"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
+msgid "Add to 'My Stations'"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
+msgid "Remove from 'My Stations'"
 msgstr ""
 
 msgctxt "#30100"

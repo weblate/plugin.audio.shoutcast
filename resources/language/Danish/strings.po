@@ -41,12 +41,12 @@ msgid "Search Current Track playing Station"
 msgstr "Søg efter Station ud fra nuværende nummer"
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
-msgstr "Føj til "Mine Stationer""
+msgid "Add to 'My Stations'"
+msgstr "Føj til 'Mine Stationer'"
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
-msgstr "Fjern fra "Mine Stationer""
+msgid "Remove from 'My Stations'"
+msgstr "Fjern fra 'Mine Stationer'"
 
 msgctxt "#30100"
 msgid "Show Subgenres"

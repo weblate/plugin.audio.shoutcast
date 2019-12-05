@@ -41,12 +41,12 @@ msgid "Search Current Track playing Station"
 msgstr "Cari Stasiun yang memutar Trek Ini"
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
-msgstr "Tambah ke "Stasiun Saya""
+msgid "Add to 'My Stations'"
+msgstr "Tambah ke 'Stasiun Saya'"
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
-msgstr "Hapus dari "Stasiun Saya""
+msgid "Remove from 'My Stations'"
+msgstr "Hapus dari 'Stasiun Saya'"
 
 msgctxt "#30100"
 msgid "Show Subgenres"

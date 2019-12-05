@@ -41,12 +41,12 @@ msgid "Search Current Track playing Station"
 msgstr "다음 트랙을 지금 방송중인 방송국 검색"
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
-msgstr ""내 방송국"에 추가"
+msgid "Add to 'My Stations'"
+msgstr "'내 방송국'에 추가"
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
-msgstr ""내 방송국"에서 제거"
+msgid "Remove from 'My Stations'"
+msgstr "'내 방송국'에서 제거"
 
 msgctxt "#30100"
 msgid "Show Subgenres"

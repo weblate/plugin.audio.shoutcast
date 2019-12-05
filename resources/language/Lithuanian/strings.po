@@ -41,12 +41,12 @@ msgid "Search Current Track playing Station"
 msgstr "Radijo stoties paiešką pagal šiuo metu atkuriamą takelį"
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
-msgstr "Pridėti į "Mano radijo stotys""
+msgid "Add to 'My Stations'"
+msgstr "Pridėti į 'Mano radijo stotys'"
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
-msgstr "Pašalinti iš "Mano radijo stotys""
+msgid "Remove from 'My Stations'"
+msgstr "Pašalinti iš 'Mano radijo stotys'"
 
 msgctxt "#30100"
 msgid "Show Subgenres"

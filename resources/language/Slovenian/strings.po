@@ -37,11 +37,11 @@ msgid "Search Station by name"
 msgstr "Išči postajo po imenu"
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
+msgid "Add to 'My Stations'"
 msgstr "Dodaj med »Moje postaje«"
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
+msgid "Remove from 'My Stations'"
 msgstr "Odstrani iz »Mojih postaj«"
 
 msgctxt "#30100"

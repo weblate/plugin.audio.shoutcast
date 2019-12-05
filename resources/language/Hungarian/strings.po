@@ -41,12 +41,12 @@ msgid "Search Current Track playing Station"
 msgstr "A jelenlegi számot játszó állomás keresése"
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
-msgstr "Hozzáadás az "én állomásaim"-hoz"
+msgid "Add to 'My Stations'"
+msgstr "Hozzáadás az 'én állomásaim'-hoz"
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
-msgstr "Eltávolítás az "én állomásaim"-ból"
+msgid "Remove from 'My Stations'"
+msgstr "Eltávolítás az 'én állomásaim'-ból"
 
 msgctxt "#30100"
 msgid "Show Subgenres"

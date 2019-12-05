@@ -41,12 +41,12 @@ msgid "Search Current Track playing Station"
 msgstr "Hľadať stanicu podľa práve hranej skladby"
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
-msgstr "Pridať do "Moje stanice""
+msgid "Add to 'My Stations'"
+msgstr "Pridať do 'Moje stanice'"
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
-msgstr "Odstrániť z "Moje stanice""
+msgid "Remove from 'My Stations'"
+msgstr "Odstrániť z 'Moje stanice'"
 
 msgctxt "#30100"
 msgid "Show Subgenres"

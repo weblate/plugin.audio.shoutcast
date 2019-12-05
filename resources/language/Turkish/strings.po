@@ -41,11 +41,11 @@ msgid "Search Current Track playing Station"
 msgstr "Geçerli Parçayı Çalan Istasyonu Ara"
 
 msgctxt "#30010"
-msgid "Add to "My Stations""
+msgid "Add to 'My Stations'"
 msgstr "Benim İstasyonlarım'a Ekle"
 
 msgctxt "#30011"
-msgid "Remove from "My Stations""
+msgid "Remove from 'My Stations'"
 msgstr "Benim İstasyonlarım'dan Kaldır"
 
 msgctxt "#30100"
