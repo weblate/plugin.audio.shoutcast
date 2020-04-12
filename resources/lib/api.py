@@ -17,23 +17,13 @@
 #    along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
+import json
 import sys
 import random
 import xmltodict
 
-try:
-    import json
-except ImportError:
-    import simplejson as json
-
-PY3 = sys.version_info.major >= 3
-
-if PY3:
-    from urllib.parse import urlencode
-    from urllib.request import urlopen, Request, HTTPError, URLError
-else:
-    from urllib import urlencode
-    from urllib2 import urlopen, Request, HTTPError, URLError
+from urllib.parse import urlencode
+from urllib.request import urlopen, Request, HTTPError, URLError
 
 
 API_URL = 'http://api.shoutcast.com/'
@@ -115,7 +105,7 @@ class ShoutcastApi():
 
         def __clean(title):
             s = ' - a SHOUTcast.com member station'
-            return title.replace(s, '') if PY3 else unicode(title).replace(s, '')
+            return title.replace(s, '')
 
         items = stations.get('station', [])
         if not isinstance(items, list):
@@ -143,7 +133,7 @@ class ShoutcastApi():
         response = self.__urlopen(PLAYLIST_URL.format(station_id=station_id))
         stream_urls = [
             l for l in response.splitlines()
-            if l.strip() and not l.strip().startswith(b'#' if PY3 else '#')
+            if l.strip() and not l.strip().startswith(b'#')
         ]
         if stream_urls:
             return random.choice(stream_urls)
