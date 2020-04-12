@@ -2,8 +2,8 @@
 <addon id="plugin.audio.shoutcast" name="SHOUTcast" version="2.4.1" provider-name="Tristan Fischer (sphere@dersphere.de), enen92">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.module.xbmcswift2" version="2.5.0"/>
-        <import addon="script.module.xmltodict" version="0.11.0"/>
+        <import addon="script.module.xbmcswift2" version="19.0.0"/>
+        <import addon="script.module.xmltodict" version="0.12.0"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>audio</provides>
