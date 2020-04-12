@@ -12,8 +12,8 @@
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <website>https://www.shoutcast.com/</website>
-        <source>https://github.com/dersphere/plugin.audio.shoutcast</source>
-        <forum>https://forum.xbmc.org/showthread.php?tid=143678</forum>
+        <source>https://github.com/XBMC-Addons/plugin.audio.shoutcast</source>
+        <forum>https://forum.kodi.tv/showthread.php?tid=143678</forum>
         <license>GPL-2.0-only</license>
         <summary lang="ar">وجود اكثر من 50.000 محطة اذاعية مجانية على الانترنت </summary>
         <summary lang="be">more than 50.000 free internet radio stations</summary>
