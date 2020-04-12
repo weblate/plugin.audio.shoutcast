@@ -1,3 +1,10 @@
+2.5.0+matrix.1 (12.4.2020) - matrix edition
+ - Remove python2 support
+ - Remove simplejson
+ - New language folder layout
+ - Automated submissions to matrix branch
+ - Addon.xml cosmetics
+
 2.4.1 (29.3.2020)
  - Fix requests
 
