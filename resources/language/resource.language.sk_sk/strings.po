@@ -16,6 +16,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
+msgctxt "Addon Summary"
+msgid "more than 50.000 free internet radio stations"
+msgstr "Viac než 50.000 voľných internetových rádio staníc"
+
+msgctxt "Addon Description"
+msgid "With this Add-on you can browse more than 50.000 free internet radio stations. Current Features:[CR]- Top 500 Stations[CR]- Browse by genre (and subgenre if enabled in settings)[CR]- Search Station by name[CR]- Search Stations by current playing track[CR]- You can manage a \"My Stations\"-list[CR]- bitrate and amount of listeners visible and sortable[CR]- 500 Stations on each Page (can be changed in the settings)[CR]- uses cache (24h genre, 1h station listings)"
+msgstr "S týmto doplnok môžete prehliadať vyše 50.000 voľných internetových rádio staníc. Momentálne podporuje:[CR]- Top 500 staníc[CR]- Prehliadanie podľa žánru (a pod-žánru, ak povolené v nastaveniach)[CR]- hľadanie stanice podľa mena[CR]- hľadanie stanice podľa práve hranej skladby[CR]- Môžete spravovať zoznam \"Moje stanice\"[CR]- zobrazenie a zoradenie podľa dátového toku a počtu poslucháčov[CR]- 500 staníc na každej strane (môže byť zmenené v nastaveniach)[CR]- používa medzi-pamäť (24h pre žánre, 1h pre zoznam staníc)"
+
 msgctxt "#30000"
 msgid "All subgenres"
 msgstr "Všetky pod-žánre"

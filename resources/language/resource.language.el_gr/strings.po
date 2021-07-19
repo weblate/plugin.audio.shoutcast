@@ -16,6 +16,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+msgctxt "Addon Summary"
+msgid "more than 50.000 free internet radio stations"
+msgstr "Πάνω από 50.000 δωρεάν διαδικτυακοί ραδιοφωνικοί σταθμοί"
+
+msgctxt "Addon Description"
+msgid "With this Add-on you can browse more than 50.000 free internet radio stations. Current Features:[CR]- Top 500 Stations[CR]- Browse by genre (and subgenre if enabled in settings)[CR]- Search Station by name[CR]- Search Stations by current playing track[CR]- You can manage a \"My Stations\"-list[CR]- bitrate and amount of listeners visible and sortable[CR]- 500 Stations on each Page (can be changed in the settings)[CR]- uses cache (24h genre, 1h station listings)"
+msgstr "Με αυτό το Πρόσθετο μπορείτε να περιηγηθείτε ανάμεσα σε περισσότερους από 50.000 δωρεάν διαδικτυακούς ραδιοφωνικούς σταθμούς. Τρέχουσες λειτουργίες:[CR]- Κορυφαίοι 500 Σταθμοί[CR]- Περιήγηση ανά είδος (και υπο-είδος αν είναι ενεργό στις ρυθμίσεις)[CR]- Αναζήτηση Σταθμού με βάση το όνομα[CR]- Αναζήτηση Σταθμών με βάση το τρέχον τραγούδι[CR]- Μπορείτε να διαχειριστείτε μία λίστα \"Σταθμών μου\"[CR]- Το bitrate και το πλήθος των ακροατών είναι ορατά και η ταξινόμηση μπορεί να γίνει σύμφωνα με αυτά[CR]- 500 Σταθμοί σε κάθε Σελίδα (μπορεί να αλλάξει στις ρυθμίσεις)[CR]- Χρήση λανθάνουσας μνήμης (είδος 24 ωρών, καταχωρίσεις σταθμών 1 ώρας)"
+
 msgctxt "#30000"
 msgid "All subgenres"
 msgstr "Όλα τα υπο-είδη"

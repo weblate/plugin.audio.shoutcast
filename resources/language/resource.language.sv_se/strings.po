@@ -16,6 +16,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+msgctxt "Addon Summary"
+msgid "more than 50.000 free internet radio stations"
+msgstr "mer än 50.000 fria internetradiostationer"
+
+msgctxt "Addon Description"
+msgid "With this Add-on you can browse more than 50.000 free internet radio stations. Current Features:[CR]- Top 500 Stations[CR]- Browse by genre (and subgenre if enabled in settings)[CR]- Search Station by name[CR]- Search Stations by current playing track[CR]- You can manage a \"My Stations\"-list[CR]- bitrate and amount of listeners visible and sortable[CR]- 500 Stations on each Page (can be changed in the settings)[CR]- uses cache (24h genre, 1h station listings)"
+msgstr "Med detta tillägg kan du bläddra bland mer än 50.000 fria internetradiostationer. Nuvarande funktioner:[CR]- Topp 500 stationer[CR]- Bläddra efter genre (och undergenre, om det är påslaget i inställningar)[CR]- Sök station efter namn[CR]- Sök stationer som spelar låt[CR]- Du kan hantera \"Mina stationer\"-lista[CR]- bitrate och antal lyssnare är synligt och sorterbart[CR]- 500 stationer på varje sida (kan ändras i inställningar)[CR]- använder buffert (24 genre, 1 timmes stationlista)"
+
 msgctxt "#30000"
 msgid "All subgenres"
 msgstr "Alla undergenrer"
