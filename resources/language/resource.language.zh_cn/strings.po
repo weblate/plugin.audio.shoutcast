@@ -16,6 +16,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+msgctxt "Addon Summary"
+msgid "more than 50.000 free internet radio stations"
+msgstr "超过50.000免费网络电台"
+
+msgctxt "Addon Description"
+msgid "With this Add-on you can browse more than 50.000 free internet radio stations. Current Features:[CR]- Top 500 Stations[CR]- Browse by genre (and subgenre if enabled in settings)[CR]- Search Station by name[CR]- Search Stations by current playing track[CR]- You can manage a \"My Stations\"-list[CR]- bitrate and amount of listeners visible and sortable[CR]- 500 Stations on each Page (can be changed in the settings)[CR]- uses cache (24h genre, 1h station listings)"
+msgstr "你可以使用本插件浏览超过50.000免费网络电台。当前功能：[CR]- 500强电台[CR]- 按类别浏览（可设置子类）[CR]- 按名字搜索电台[CR]- 按当前播放曲目搜索电台[CR]- 管理“我的电台”-列表[CR]- 按比特率和收听人数排序[CR]- 每页500个电台（可设置）[CR]- 使用缓存（24小时类别，1小时站点列表）"
+
 msgctxt "#30000"
 msgid "All subgenres"
 msgstr "所有子类"

@@ -16,6 +16,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+msgctxt "Addon Summary"
+msgid "more than 50.000 free internet radio stations"
+msgstr "50,000개 이상의 무료 인터넷 라디오 방송 청취"
+
+msgctxt "Addon Description"
+msgid "With this Add-on you can browse more than 50.000 free internet radio stations. Current Features:[CR]- Top 500 Stations[CR]- Browse by genre (and subgenre if enabled in settings)[CR]- Search Station by name[CR]- Search Stations by current playing track[CR]- You can manage a \"My Stations\"-list[CR]- bitrate and amount of listeners visible and sortable[CR]- 500 Stations on each Page (can be changed in the settings)[CR]- uses cache (24h genre, 1h station listings)"
+msgstr "이 애드온으로 50,000개 이상의 무료 인터넷 라디오 방송을 탐색할 수 있습니다. 현재 기능:[CR]- Top 500 방송국[CR]- 장르(설정에서 활성화하면 하위 장르)로 탐색[CR]- 방송국명으로 검색[CR]- 현재 트랙을 방송중인 방송국 검색[CR]- \"내 방송국\" 목록 관리[CR]- 비트레이트와 청취자수 표시와 정렬[CR]- 페이지당 500 방송국 표시 (설정에서 변경 가능)[CR]- 캐시 사용 (장르 24시간, 방송국 리스트 1시간)"
+
 msgctxt "#30000"
 msgid "All subgenres"
 msgstr "모든 하위 장르"

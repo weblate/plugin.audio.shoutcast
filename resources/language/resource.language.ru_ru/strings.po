@@ -16,6 +16,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
+msgctxt "Addon Summary"
+msgid "more than 50.000 free internet radio stations"
+msgstr "более 50 000 свободных интернет радиостанций"
+
+msgctxt "Addon Description"
+msgid "With this Add-on you can browse more than 50.000 free internet radio stations. Current Features:[CR]- Top 500 Stations[CR]- Browse by genre (and subgenre if enabled in settings)[CR]- Search Station by name[CR]- Search Stations by current playing track[CR]- You can manage a \"My Stations\"-list[CR]- bitrate and amount of listeners visible and sortable[CR]- 500 Stations on each Page (can be changed in the settings)[CR]- uses cache (24h genre, 1h station listings)"
+msgstr "С этим дополнением Вы сможете слушать более 50 тысяч доступных свободных радиостанций. На данный момент плагин позволяет:[CR]- Просматривать Top 500 станций[CR]- Искать по стилю (и подстилю, если задано в настройках)[CR]- Искать станции по имени[CR]- Искать похожие станции по текущей воспроизводимой музыке[CR]- Управление списком \"Мои станции\"[CR]- Просматривать, сортировать по битрейту и количеству слушателей[CR]- 500 станций на каждой странице (может быть изменено в настройках)[CR]- Использование кеширования (стили на 24 часа, списки станций на 1 час) "
+
 msgctxt "#30000"
 msgid "All subgenres"
 msgstr "Все подстили"

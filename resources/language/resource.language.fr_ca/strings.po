@@ -16,6 +16,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+msgctxt "Addon Summary"
+msgid "more than 50.000 free internet radio stations"
+msgstr "plus de 50 000 stations de radio Internet gratuites"
+
+msgctxt "Addon Description"
+msgid "With this Add-on you can browse more than 50.000 free internet radio stations. Current Features:[CR]- Top 500 Stations[CR]- Browse by genre (and subgenre if enabled in settings)[CR]- Search Station by name[CR]- Search Stations by current playing track[CR]- You can manage a \"My Stations\"-list[CR]- bitrate and amount of listeners visible and sortable[CR]- 500 Stations on each Page (can be changed in the settings)[CR]- uses cache (24h genre, 1h station listings)"
+msgstr "Avec cet addiciel vous pouvez parcourir plus de 50 000 stations de radio Internet gratuites. Caractéristiques actuelles :[CR] - Les 500 1res stations[CR] - Parcourir par genre (et sous-genre si activé dans les paramètres)[CR] - Rechercher les stations par nom[CR] - Rechercher les stations par piste en cours de lecture[CR] - Vous pouvez gérer une liste « Mes stations »[CR] - Débit binaire et nombre d'auditeurs visible et triable[CR] - 500 stations par page (peut être modifié dans les paramètres)[CR] - Utilise un cache (24 h pour les genres, 1h pour les listes de stations)."
+
 msgctxt "#30000"
 msgid "All subgenres"
 msgstr "Tous les sous-genres"

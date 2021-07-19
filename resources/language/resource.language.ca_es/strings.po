@@ -16,6 +16,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+msgctxt "Addon Summary"
+msgid "more than 50.000 free internet radio stations"
+msgstr "Més de 50.000 estacions de ràdio per Internet gratuïtes"
+
+msgctxt "Addon Description"
+msgid "With this Add-on you can browse more than 50.000 free internet radio stations. Current Features:[CR]- Top 500 Stations[CR]- Browse by genre (and subgenre if enabled in settings)[CR]- Search Station by name[CR]- Search Stations by current playing track[CR]- You can manage a \"My Stations\"-list[CR]- bitrate and amount of listeners visible and sortable[CR]- 500 Stations on each Page (can be changed in the settings)[CR]- uses cache (24h genre, 1h station listings)"
+msgstr "Amb aquest Add-on poden escoltar més de 50.000 emissores de ràdio per Internet gratuïtes. Característiques: [CR]- Les 500 millors emissores. [CR]- Cerca per gènere (i per subgèneres si s'habilita en la configuració). [CR]- Cerca d'emissores per nom. [CR]- Recerca d'emissores que reprodueixen una cançó. [CR]- Possibilitat d'administrar un directori amb \"Els meus emissores\". [CR]- Directoris ordenats que mostren bitrate i quantitat d'oients. [CR]- 500 emissores a cada pàgina (la quantitat pot canviar en la configuració). [CR]- Ús de memòria cau (24h gènere, 1h directori d'emissores)."
+
 msgctxt "#30000"
 msgid "All subgenres"
 msgstr "tots els subgèneres"

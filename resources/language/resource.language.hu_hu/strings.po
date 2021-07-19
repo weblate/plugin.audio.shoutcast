@@ -16,6 +16,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+msgctxt "Addon Summary"
+msgid "more than 50.000 free internet radio stations"
+msgstr "Több mint 50.000 ingyenes internet rádió"
+
+msgctxt "Addon Description"
+msgid "With this Add-on you can browse more than 50.000 free internet radio stations. Current Features:[CR]- Top 500 Stations[CR]- Browse by genre (and subgenre if enabled in settings)[CR]- Search Station by name[CR]- Search Stations by current playing track[CR]- You can manage a \"My Stations\"-list[CR]- bitrate and amount of listeners visible and sortable[CR]- 500 Stations on each Page (can be changed in the settings)[CR]- uses cache (24h genre, 1h station listings)"
+msgstr "Ezzel a kiegészítővel választhatsz több mint 50.000 ingyenes rádió adó közül. Jelenlegi szolgáltatások:[CR]- Top 500 állomás[CR]-Műfajonkénti (és alműfajonkénti) keresés[CR]- Név szerinti állomáskeresés[CR]- Állomáskeresés az éppen játszott szám alapján[CR]- Az \"én állomásaim\" lista kezelése[CR]- Minőség és hallgatottság szerinti rendezés[CR]- 500 adó minden oldalon (a szám beállítható)[CR]- Gyorsítótár használata (24óra a műfajokra, 1óra az állomásokra)"
+
 msgctxt "#30000"
 msgid "All subgenres"
 msgstr "Minden alműfaj"

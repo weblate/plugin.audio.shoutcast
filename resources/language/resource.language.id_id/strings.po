@@ -16,6 +16,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+msgctxt "Addon Summary"
+msgid "more than 50.000 free internet radio stations"
+msgstr "lebih dari 50.000 stasiun radio internet gratisan"
+
+msgctxt "Addon Description"
+msgid "With this Add-on you can browse more than 50.000 free internet radio stations. Current Features:[CR]- Top 500 Stations[CR]- Browse by genre (and subgenre if enabled in settings)[CR]- Search Station by name[CR]- Search Stations by current playing track[CR]- You can manage a \"My Stations\"-list[CR]- bitrate and amount of listeners visible and sortable[CR]- 500 Stations on each Page (can be changed in the settings)[CR]- uses cache (24h genre, 1h station listings)"
+msgstr "Dengan addon ini Anda dapat menjelajahi lebih dari 50.000 stasiun radio gratisan. Fitur saat ini:[CR]- 500 Stasiun Teratas[CR]- Jelajahi berdasarkan tema (dan subtema jika diaktifkan di pengaturan)[CR]- Cari Stasiun berdasarkan nama[CR]- Cari Stasiun berdasarkan trek yang diputar[CR]- Anda dapat mengelola daftar \"Stasiun Saya\"[CR]- bitrate dan jumlah pendengar terlihat dan dapat diurutkan[CR]- 500 Stasiun setiap halaman (dapat diubah di pengaturan)[CR]- menggunakan cache (24 jam tema, 1 jam daftar stasiun)"
+
 msgctxt "#30000"
 msgid "All subgenres"
 msgstr "Semua subtema"

@@ -17,6 +17,14 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.7.1\n"
 
+msgctxt "Addon Summary"
+msgid "more than 50.000 free internet radio stations"
+msgstr "Ponad 50.000 darmowych internetowych stacji radiowych"
+
+msgctxt "Addon Description"
+msgid "With this Add-on you can browse more than 50.000 free internet radio stations. Current Features:[CR]- Top 500 Stations[CR]- Browse by genre (and subgenre if enabled in settings)[CR]- Search Station by name[CR]- Search Stations by current playing track[CR]- You can manage a \"My Stations\"-list[CR]- bitrate and amount of listeners visible and sortable[CR]- 500 Stations on each Page (can be changed in the settings)[CR]- uses cache (24h genre, 1h station listings)"
+msgstr "Dzięki tej wtyczce możesz przeglądać w ponad 50.000 darmowych stacjach radiowych. Aktualne funkcje:[CR]- Top 500 stacji[CR]- przeglądaj według gatunków (oraz subgatunków jeżeli włączone)[CR]- szukaj stacji po nazwie[CR]- szukaj stacji po granym utworze[CR]- zarządzaj listą Moje stacje[CR]- sortowanie oraz widoczność liczby słuchaczy i bitrate[CR]- 500 stacji na stronie (możliwa edycja)[CR]- pamięć podręczna (24h gatunki, 1h lista stacji)"
+
 msgctxt "#30000"
 msgid "All subgenres"
 msgstr "Wszystkie podgatunki"
